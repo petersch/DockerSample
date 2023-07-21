@@ -1,0 +1,1 @@
+docker run -i -p 80:80 -v C:\zz\:/mnt/tmp --env PATH_TO_FILE=/mnt/tmp/sample.jpg -t dockersample
